@@ -123,7 +123,7 @@ h6 {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url("lOGO/1.jpg") no-repeat center center / cover;
+  background: url("./Logo/1.jpg") no-repeat center center / cover;
   height: 100vh;
 }
 
